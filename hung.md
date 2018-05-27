@@ -1,6 +1,6 @@
 ﻿# Tìm hiểu về Markdown
 
-##Markdown là gì?
+## Markdown là gì?
 
 **Markdown**  là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành HTML và nhiều định dạng khác sử dụng một công cụ cùng tên. Nó thường được dùng để tạo các tập tin *readme*, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
 
