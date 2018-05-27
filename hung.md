@@ -1,4 +1,4 @@
-﻿# Tìm hiểu về Markdown
+# Tìm hiểu về Markdown
 
 ## Markdown là gì?
 
@@ -10,16 +10,24 @@ Năm 2004, cùng với sự giúp đỡ của [Aaron Swartz](https://en.wikipedi
 ### Tiêu đề
 Các lớp tiêu đề từ h1 đến h6 viết bằng cách thêm tương ứng từ 1 đến 6 ký tự # trước đầu dòng.
 Kẹp ở đầu và cuối một đoạn text cặp ký tự  * để in nghiêng, ** để in đậm, *** để kết hợp cả hai. Chữ gạch ngang sử dụng cặp ký tự ~~
+
 *In nghiêng*
+
 **In đậm**
+
 ***Nghiêng đậm***
+
 ~~Gạch ngang~~
+
 ### Liên kết
 Cách dẫn liên kết là: [alttext]và (url)
+
 [John Gruber](https://en.wikipedia.org/wiki/John_Gruber)
+
 Ngoài ra chúng ta có thể thêm "title" vào sau url trong ().
 ### Hình ảnh
 Chèn hình ảnh giống với cú pháp chèn liên kết, thêm ký tự ! trước cú pháp trên.
+
 ![https://blog.ghost.org/](https://blog.ghost.org/content/images/2015/03/markdown-guide-1.jpg)
 ### Định dạng danh sách
 Để định dạng một đoạn text thành các gạch đầu dòng, ta dùng ký tự * và một dấu cách ở mỗi ý và dùng thêm 2 dấu cách ở đằng trước nếu muốn lùi vào một level.
